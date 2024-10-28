@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\source\\dialogsystemeditor\\private\\dialogsystemapp\\dialogsystempropertiestab.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shhth\\desktop\\dialogsystemproject\\intermediate\\build\\win64\\x64\\dialogsystemprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialogsystemeditor\\definitions.dialogsystemeditor.h",
+            "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\dialogsystemapp\\dialogsystempropertiestab.h",
+            "f:\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowtabfactory.h",
+            "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\source\\dialogsystem\\public\\dialogasset\\dialogasset.h",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\functional",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\unordered_map",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\xhash",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\cmath",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\list",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\xpolymorphic_allocator.h",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\vector",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\__msvc_bit_utils.hpp",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\__msvc_sanitizer_annotate_container.hpp",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\xbit_ops.h",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\xstring",
+            "f:\\visualstudioide\\vc\\tools\\msvc\\14.38.33130\\include\\xnode_handle.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsavecontext.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\cookenums.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsaveoverride.h",
+            "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\dialogasset.generated.h",
+            "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\dialogsystemapp\\dialogsystemapp.h",
+            "f:\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowcentricapplication.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

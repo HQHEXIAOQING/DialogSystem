@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialogSystem.cpp.obj": [
+			"DialogAsset.gen.cpp.obj",
+			"DialogAssetCondition_Test.gen.cpp.obj",
+			"DialogConditionBase.gen.cpp.obj",
+			"DialogNodeCondition_Test.gen.cpp.obj",
+			"DialogNodeEffectorBase.gen.cpp.obj",
+			"DialogNodeEffector_Test.gen.cpp.obj",
+			"DialogNodeType.gen.cpp.obj",
+			"DialogSystem.init.gen.cpp.obj",
+			"ParticipantCondition_Test.gen.cpp.obj",
+			"RuntimeDialogEndNodeInfo.gen.cpp.obj",
+			"RuntimeDialogGraph.gen.cpp.obj",
+			"RuntimeDialogNodeInfo.gen.cpp.obj",
+			"RuntimeDialogNodeInfoBase.gen.cpp.obj",
+			"RuntimeDialogStartNodeInfo.gen.cpp.obj",
+			"DialogSystem.cpp.obj"
+		]
+	}
+}

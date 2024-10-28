@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialogSystemEditor.cpp.obj": [
+			"DialogAssetFactory.gen.cpp.obj",
+			"DialogGraphEndNode.gen.cpp.obj",
+			"DialogGraphNode.gen.cpp.obj",
+			"DialogGraphNodeBase.gen.cpp.obj",
+			"DialogGraphSchema.gen.cpp.obj",
+			"DialogGraphStartNode.gen.cpp.obj",
+			"DialogSystemEditor.init.gen.cpp.obj",
+			"DialogAssetAction.cpp.obj",
+			"DialogAssetFactory.cpp.obj",
+			"DialogGraphSchema.cpp.obj",
+			"DialogGraphEndNode.cpp.obj",
+			"DialogGraphNode.cpp.obj",
+			"DialogGraphStartNode.cpp.obj",
+			"DialogSystemApp.cpp.obj",
+			"DialogSystemAppMode.cpp.obj",
+			"DialogSystemPrimaryTab.cpp.obj",
+			"DialogSystemPropertiesTab.cpp.obj",
+			"DialogSystemEditor.cpp.obj"
+		]
+	}
+}

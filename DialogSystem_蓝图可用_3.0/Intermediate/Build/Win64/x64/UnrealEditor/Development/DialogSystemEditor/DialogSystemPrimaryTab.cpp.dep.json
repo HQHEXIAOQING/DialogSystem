@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\source\\dialogsystemeditor\\private\\dialogsystemapp\\dialogsystemprimarytab.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shhth\\desktop\\dialogsystemproject\\intermediate\\build\\win64\\x64\\dialogsystemprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialogsystemeditor\\definitions.dialogsystemeditor.h",
+            "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\dialogsystemapp\\dialogsystemprimarytab.h",
+            "f:\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowtabfactory.h",
+            "c:\\users\\shhth\\desktop\\dialogsystemproject\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\dialogsystemapp\\dialogsystemapp.h",
+            "f:\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowcentricapplication.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

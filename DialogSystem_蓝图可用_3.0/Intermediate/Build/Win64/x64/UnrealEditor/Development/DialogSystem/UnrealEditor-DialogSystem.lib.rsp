@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DialogSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\SHHTH\Desktop\DialogSystemProject\Intermediate\Build\Win64\x64\DialogSystemProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\SHHTH\Desktop\DialogSystemProject\Plugins\DialogSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogSystem\Module.DialogSystem.cpp.obj"
+"C:\Users\SHHTH\Desktop\DialogSystemProject\Plugins\DialogSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogSystem\DialogSystem.cpp.obj"
+"C:\Users\SHHTH\Desktop\DialogSystemProject\Plugins\DialogSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogSystem\DialogAsset.cpp.obj"
+"C:\Users\SHHTH\Desktop\DialogSystemProject\Plugins\DialogSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogSystem\Default.rc2.res"
+/OUT:"C:\Users\SHHTH\Desktop\DialogSystemProject\Plugins\DialogSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogSystem\UnrealEditor-DialogSystem.lib"
