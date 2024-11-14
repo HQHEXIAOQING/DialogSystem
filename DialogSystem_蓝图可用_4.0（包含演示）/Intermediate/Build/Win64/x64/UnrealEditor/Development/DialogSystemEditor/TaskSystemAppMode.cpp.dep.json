@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\private\\tasksystemapp\\tasksystemappmode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shhth\\desktop\\taskdialogsystem\\intermediate\\build\\win64\\x64\\taskdialogsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialogsystemeditor\\definitions.dialogsystemeditor.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\tasksystemapp\\tasksystemappmode.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\applicationmode.h",
+            "f:\\ue_5.5\\engine\\source\\runtime\\slate\\public\\framework\\docking\\layoutextender.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowtabmanager.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowtabfactory.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\tasksystemapp\\tasksystemapp.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowcentricapplication.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\tasksystemapp\\tasksystemprimarytab.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\tasksystemapp\\tasksystempropertiestab.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

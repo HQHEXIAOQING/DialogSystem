@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\private\\taskassetobjectinfo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shhth\\desktop\\taskdialogsystem\\intermediate\\build\\win64\\x64\\taskdialogsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialogsystem\\definitions.dialogsystem.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\taskassetobjectinfo.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\taskassetobjectinfo.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\systemvalue\\systemvalues\\systemvaluetype_bool.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\systemvalue\\systemvaluetype.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\systemvaluetype.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\systemvaluetype_bool.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\systemvalue\\systemvalues\\systemvaluetype_object.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\systemvaluetype_object.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\systemvalue\\systemvalues\\systemvaluetype_vector.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\systemvaluetype_vector.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\taskasset.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\taskasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

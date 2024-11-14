@@ -1,0 +1,44 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialogSystemEditor.cpp.obj": [
+			"DialogAssetFactory.gen.cpp.obj",
+			"DialogGraphEndNode.gen.cpp.obj",
+			"DialogGraphJumpNode.gen.cpp.obj",
+			"DialogGraphNode.gen.cpp.obj",
+			"DialogGraphNodeBase.gen.cpp.obj",
+			"DialogGraphSchema.gen.cpp.obj",
+			"DialogGraphStartNode.gen.cpp.obj",
+			"DialogSystemEditor.init.gen.cpp.obj",
+			"TaskAssetFactory.gen.cpp.obj",
+			"TaskGraphEndNode.gen.cpp.obj",
+			"TaskGraphNode.gen.cpp.obj",
+			"TaskGraphNodeBase.gen.cpp.obj",
+			"TaskGraphSchema.gen.cpp.obj",
+			"TaskGraphStartNode.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"DialogAssetAction.cpp.obj",
+			"DialogAssetFactory.cpp.obj",
+			"DialogGraphSchema.cpp.obj",
+			"DialogGraphEndNode.cpp.obj",
+			"DialogGraphJumpNode.cpp.obj",
+			"DialogGraphNode.cpp.obj",
+			"DialogGraphStartNode.cpp.obj",
+			"DialogSystemApp.cpp.obj",
+			"DialogSystemAppMode.cpp.obj",
+			"DialogSystemPrimaryTab.cpp.obj",
+			"DialogSystemPropertiesTab.cpp.obj",
+			"DialogSystemEditor.cpp.obj",
+			"TaskAssetAction.cpp.obj",
+			"TaskAssetFactory.cpp.obj",
+			"TaskGraphSchema.cpp.obj",
+			"TaskGraphEndNode.cpp.obj",
+			"TaskGraphNode.cpp.obj",
+			"TaskGraphStartNode.cpp.obj",
+			"TaskSystemApp.cpp.obj",
+			"TaskSystemAppMode.cpp.obj",
+			"TaskSystemPrimaryTab.cpp.obj",
+			"TaskSystemPropertiesTab.cpp.obj"
+		]
+	}
+}

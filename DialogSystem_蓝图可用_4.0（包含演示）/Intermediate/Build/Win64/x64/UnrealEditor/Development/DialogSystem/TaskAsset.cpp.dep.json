@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\private\\taskasset\\taskasset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shhth\\desktop\\taskdialogsystem\\intermediate\\build\\win64\\x64\\taskdialogsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialogsystem\\definitions.dialogsystem.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\taskasset.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\taskasset.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\hqtasksystem.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\runtimetasknodeinfos\\runtimetaskendnodeinfo.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\nodetype.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\nodetype.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\runtimetasknodeinfobase.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\runtimetasknodeinfobase.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\runtimetaskendnodeinfo.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\hqtasksystem.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\runtimetaskgraph.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\runtimetaskgraph.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\secondarytaskbase.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\secondarytaskbase.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\taskassetobjectinfo.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\taskassetobjectinfo.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\taskconditionbase.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\taskconditionbase.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\tasknodeeffectorbase.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\tasknodeeffectorbase.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\runtimetasknodeinfos\\runtimetasknodeinfo.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\runtimetasknodeinfo.generated.h",
+            "f:\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsavecontext.h",
+            "f:\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\cookenums.h",
+            "f:\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsaveoverride.h",
+            "f:\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\cooker\\cookdependency.h",
+            "f:\\ue_5.5\\engine\\source\\runtime\\core\\public\\serialization\\compactbinary.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

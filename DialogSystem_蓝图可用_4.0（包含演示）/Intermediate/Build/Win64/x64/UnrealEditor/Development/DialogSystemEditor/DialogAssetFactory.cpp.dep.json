@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\private\\dialogassetfactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shhth\\desktop\\taskdialogsystem\\intermediate\\build\\win64\\x64\\taskdialogsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialogsystemeditor\\definitions.dialogsystemeditor.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\dialogassetfactory.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystemeditor\\uht\\dialogassetfactory.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\assetclassparentfilter.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\classviewer\\public\\classviewerfilter.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\classes\\settings\\classviewersettings.h",
+            "f:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\classviewersettings.generated.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\kismet2\\kismeteditorutilities.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\classviewer\\public\\classviewermodule.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\dialogasset\\dialogasset.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\dialogasset.generated.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\kismet2\\sclasspickerdialog.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\classes\\preferences\\unrealedoptions.h",
+            "f:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\unrealedoptions.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\private\\dialogassetaction.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shhth\\desktop\\taskdialogsystem\\intermediate\\build\\win64\\x64\\taskdialogsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialogsystemeditor\\definitions.dialogsystemeditor.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\dialogassetaction.h",
+            "f:\\ue_5.5\\engine\\source\\developer\\assettools\\public\\assettypeactions_base.h",
+            "f:\\ue_5.5\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "f:\\ue_5.5\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "f:\\ue_5.5\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "f:\\ue_5.5\\engine\\source\\developer\\merge\\public\\merge.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "f:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "f:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "f:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\automatedassetimportdata.generated.h",
+            "f:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettools.generated.h",
+            "f:\\ue_5.5\\engine\\source\\developer\\assettools\\public\\assettoolsmodule.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\toolkits\\simpleasseteditor.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\dialogasset\\dialogasset.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\dialogasset.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\dialogsystemapp\\dialogsystemapp.h",
+            "f:\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowcentricapplication.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

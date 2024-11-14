@@ -1,0 +1,46 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialogSystem.cpp.obj": [
+			"DialogAsset.gen.cpp.obj",
+			"DialogAssetCondition_Test.gen.cpp.obj",
+			"DialogConditionBase.gen.cpp.obj",
+			"DialogNodeCondition_Test.gen.cpp.obj",
+			"DialogNodeEffectorBase.gen.cpp.obj",
+			"DialogNodeEffector_Test.gen.cpp.obj",
+			"DialogSystem.init.gen.cpp.obj",
+			"HQTaskSystem.gen.cpp.obj",
+			"NodeType.gen.cpp.obj",
+			"ParticipantCondition_Test.gen.cpp.obj",
+			"RuntimeDialogEndNodeInfo.gen.cpp.obj",
+			"RuntimeDialogGraph.gen.cpp.obj",
+			"RuntimeDialogNodeInfo.gen.cpp.obj",
+			"RuntimeDialogNodeInfoBase.gen.cpp.obj",
+			"RuntimeDialogStartNodeInfo.gen.cpp.obj",
+			"RuntimeTaskEndNodeInfo.gen.cpp.obj",
+			"RuntimeTaskGraph.gen.cpp.obj",
+			"RuntimeTaskNodeInfo.gen.cpp.obj",
+			"RuntimeTaskNodeInfoBase.gen.cpp.obj",
+			"RuntimeTaskStartNodeInfo.gen.cpp.obj",
+			"SecondaryTaskAchievedCondition_BlackboardValue.gen.cpp.obj",
+			"SecondaryTaskBase.gen.cpp.obj",
+			"SystemValueType.gen.cpp.obj",
+			"SystemValueType_Bool.gen.cpp.obj",
+			"SystemValueType_Object.gen.cpp.obj",
+			"SystemValueType_Vector.gen.cpp.obj",
+			"TaskAsset.gen.cpp.obj",
+			"TaskAssetObjectInfo.gen.cpp.obj",
+			"TaskConditionBase.gen.cpp.obj",
+			"TaskDialogCondition_DialogCharacterId.gen.cpp.obj",
+			"TaskEffector_PrintText.gen.cpp.obj",
+			"TaskNodeEffectorBase.gen.cpp.obj",
+			"TaskPinUseCondition_NeedTask.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"DialogAsset.cpp.obj",
+			"DialogSystem.cpp.obj",
+			"TaskAssetObjectInfo.cpp.obj",
+			"HQTaskSystem.cpp.obj",
+			"TaskAsset.cpp.obj"
+		]
+	}
+}

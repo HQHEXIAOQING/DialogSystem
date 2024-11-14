@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\private\\tasksystemapp\\taskgraph\\taskgraphschema.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shhth\\desktop\\taskdialogsystem\\intermediate\\build\\win64\\x64\\taskdialogsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialogsystemeditor\\definitions.dialogsystemeditor.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\tasksystemapp\\taskgraph\\taskgraphschema.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystemeditor\\uht\\taskgraphschema.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\tasksystemapp\\taskgraph\\tasknodes\\taskgraphendnode.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\taskasset.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\taskasset.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\runtimetasknodeinfos\\runtimetaskendnodeinfo.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\nodetype.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\nodetype.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\runtimetasknodeinfobase.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\runtimetasknodeinfobase.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\runtimetaskendnodeinfo.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\tasksystemapp\\taskgraph\\taskgraphnodebase.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystemeditor\\uht\\taskgraphnodebase.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystemeditor\\uht\\taskgraphendnode.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\tasksystemapp\\taskgraph\\tasknodes\\taskgraphnode.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\runtimetasknodeinfos\\runtimetasknodeinfo.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\runtimetasknodeinfo.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystemeditor\\uht\\taskgraphnode.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystemeditor\\public\\tasksystemapp\\taskgraph\\tasknodes\\taskgraphstartnode.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\source\\dialogsystem\\public\\taskasset\\runtimetasknodeinfos\\runtimetaskstartnodeinfo.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystem\\uht\\runtimetaskstartnodeinfo.generated.h",
+            "c:\\users\\shhth\\desktop\\taskdialogsystem\\plugins\\dialogsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dialogsystemeditor\\uht\\taskgraphstartnode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
